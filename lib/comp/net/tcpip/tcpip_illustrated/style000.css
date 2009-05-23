@@ -1,0 +1,77 @@
+p {
+ color: #000000;
+ font-family: Tahoma, Arial, Helvetica, serif ;
+ font-size: 10pt;
+ margin-right: 10px;
+ margin-left: 5px;
+ }
+p.head {
+ color: #000000;
+ font-family: Tahoma, Arial, Helvetica, serif ;
+ font-size: 8pt;
+ margin-right: 10px;
+ margin-left: 5px;
+ margin-top: 0px;
+ margin-bottom: 0px;
+ }
+p.headbig {
+ color: #000000;
+ font-family: Tahoma, Arial, Helvetica, serif ;
+ font-size: 10pt;
+ margin-right: 10px;
+ margin-left: 5px;
+ margin-top: 0px;
+ margin-bottom: 0px;
+ }
+p.big {
+ color: #333399;
+ font-family: Tahoma, Arial, Helvetica, serif;
+ font-size: 12pt;
+ margin-right: 10px;
+ margin-left: 5px;
+ font-weight: bold;
+ }
+p.extrabig {
+ color: #333399;
+ font-family: Tahoma, Arial, Helvetica, serif;
+ font-size: 20pt;
+ margin-right: 10px;
+ margin-left: 5px;
+ margin-top: 0px;
+ margin-bottom: 0px;
+ font-weight: bold;
+ }
+h2 {
+color: #333399;
+font-family: Tahoma, Arial, Helvetica, serif;
+font-size: 12pt;
+font-weight: bold;
+}
+a {
+font-family: Tahoma, Arial, Helvetica, serif;
+font-size: 10pt;
+}
+a.small {
+  font-family: Tahoma, Arial, Helvetica, serif;
+  font-size: 8pt;
+}
+INPUT {
+ FONT: 10pt fixed,monospace
+}
+table {
+ font-family: Tahoma, Arial, Helvetica, serif ;
+ font-size: 10pt;
+}
+td {
+ font-family: Tahoma, Arial, Helvetica, serif ;
+ font-size: 10pt;
+}
+td.small {
+ font-family: Tahoma, Arial, Helvetica, serif ;
+ font-size: 8pt;
+}
+td.white {
+ font-family: Tahoma, Arial, Helvetica, serif ;
+ font-size: 10pt;
+ color: #ffffff;
+}
