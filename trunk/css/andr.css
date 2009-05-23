@@ -1,0 +1,106 @@
+<!-- $Id: andr.css,v 1.6 2006/04/16 19:26:16 andr Exp $ //-->
+
+BODY
+	{
+		font-family:"Arial Cyr",Arial,Helvetica,sans-serif;
+		font-size:10pt;
+		background:White;
+		margin-left: 2em;
+		margin-right: 2em;
+}
+
+TABLE
+	{ 
+		font-family:"Arial Cyr",Arial,Helvetica,sans-serif;
+		font-style:normal;
+		font-size:10pt;
+		border-color: #585858;
+}
+
+A
+	{ color: #4772BC; text-decoration: none }
+
+A:HOVER
+	{ color: Red;  text-decoration: underline }
+
+.big {
+	font-size:28pt;
+	color:#990000;
+}
+
+P
+	{	margin-top:0cm;
+		margin-bottom:0cm;
+		text-indent: 0.5cm;
+		text-align:justify;
+}
+
+.left2
+	{ margin-left:0.5cm }
+
+.Navy	{ color: Navy }
+.Blue	{ color: Blue }
+.Aqua	{ color: Aqua }
+.Gold	{ color: Gold }
+.Orange	{ color: Orange }
+.Red	{ color: Red }
+.Maroon	{ color: Maroon }
+
+
+.here	{
+		font-family: Courier;
+		color: #990000;
+}
+
+.comment {
+	background-color: yellow;
+	font-style: Italic;
+	font-size: 9pt;
+}
+
+.warn {
+	background-color: ffff99;
+	color: ff0000;
+}
+
+.Right
+	{ text-align:Right ; }
+
+.Left
+	{ text-align:Left; }
+	
+
+<!-- for anketa.html -->
+
+.exp {
+	margin-left:1.5cm;
+	margin-top:0;
+	margin-bottom:0;
+}
+.exp2 {
+	margin-left:2cm;
+	margin-top:0;
+	margin-bottom:0;
+}
+
+.cvs {
+	color: Grey;
+	margin-top: 1em;
+	margin-left: 0em;
+	margin-bottom: 0em;
+	font-family:"Courier New";
+	font-style: italic;
+	font-size: 10pt;
+}
+
+.copyright {
+	color: Grey;
+	margin-top: 0em;
+	margin-left: 0em;
+	margin-bottom: 5em;
+	font-family:"Courier New";
+	font-style: italic;
+	font-size: 10pt;
+}
+
+

@@ -1,0 +1,130 @@
+/* $ANDR: www/doc/unix/desktop.css,v 1.2 2006/05/21 20:19:19 andr Exp $ */
+
+BODY {
+	margin: 0;
+	padding: 0;
+	font-family: "Arial Cyr",Arial,Helvetica,Sans-Serif;
+	font-size: 14pt;
+}
+
+P {
+	text-align: justify;
+	text-indent: 1em;
+	margin-top: .5em;
+	margin-bottom: .5em;
+}
+
+BODY ADDRESS {
+	line-height: 1.3;
+	margin: .6em 0;
+}
+
+BODY BLOCKQUOTE {
+	margin-top: .75em;
+	line-height: 1.5;
+	margin-bottom: .75em;
+}
+
+HTML BODY {
+	margin: 1em 8% 1em 10%;
+	line-height: 1.2;
+}
+
+.LEGALNOTICE {
+	font-size: small;
+	font-variant: small-caps;
+}
+
+BODY DIV {
+	margin: 0;
+}
+
+DL {
+	margin: .8em 0;
+	line-height: 1.2;
+}
+
+BODY FORM {
+	margin: .6em 0;
+}
+
+H1, H2, H3, H4, H5, H6,
+DIV.EXAMPLE P B,
+.QUESTION,
+DIV.TABLE P B,
+DIV.PROCEDURE P B {
+	color: #990000;
+}
+
+BODY H1, BODY H2, BODY H3, BODY H4, BODY H5, BODY H6 {
+	line-height: 1.3;
+	margin-left: 0;
+}
+
+BODY H1, BODY H2 {
+	margin: .8em 0 0 -4%;
+}
+
+BODY H3, BODY H4 {
+	margin: .8em 0 0 -3%;
+}
+
+BODY H5 {
+	margin: .8em 0 0 -2%;
+}
+
+BODY H6 {
+	margin: .8em 0 0 -1%;
+}
+
+BODY HR {
+	margin: .6em;
+}
+
+BODY IMG.NAVHEADER {
+	margin: 0 0 0 -4%;
+}
+
+OL {
+	margin: 0 0 0 5%;
+	line-height: 1.2;
+}
+
+BODY PRE {
+	margin: .75em 0;
+	line-height: 1.0;
+	color: #461b7e;
+}
+
+BODY TD, BODY TH {
+	line-height: 1.2;
+}
+
+UL, BODY DIR, BODY MENU {
+	margin: 0 0 0 5%;
+	line-height: 1.2;
+}
+
+HTML {
+	margin: 0; 
+	padding: 0;
+}
+
+.FILENAME {
+	color: #007a00;
+}
+
+.GUIMENU, .GUIMENUITEM, .GUISUBMENU,
+.GUILABEL, .INTERFACE, .GUIBUTTON,
+.SHORTCUT, .SHORTCUT .KEYCAP {
+	background-color: #F0F0F0;
+}
+
+.ACCEL {
+	background-color: #F0F0F0;
+	text-decoration: underline;
+} 
+
+.PROGRAMLISTING, .SCREEN {
+	margin-left: 3ex;
+}

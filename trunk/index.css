@@ -1,0 +1,208 @@
+/* $ANDR: www/index.css,v 1.5 2006/08/13 19:55:00 andr Exp $ */
+
+.literal
+{
+	font-family: "New Roman"
+	font-style: italic;
+	font-weight: bold;
+	font-size: 72pt;
+	background-color: #4b7b9b;
+	color: silver;
+}
+
+.screen
+{
+	font-style: normal;
+	font-family: "Courier New";
+	color: lime;
+	background-color: #353535; 
+	border: thin solid #cccccc;
+	padding: 0.25em 1em 0.25em 1em;
+	
+}
+
+.programlisting,
+.note, .warning, .caution, .tip, .important
+{
+	font-style: italic;
+	background-color: #dddddd; 
+	border: thin solid #cccccc;
+	padding: 0.25em 1em 0.25em 1em;
+}
+
+EM {
+	font-family: "Impact";
+	font-style: normal;
+	background-color: #ff6600;
+	color: white;
+}
+
+.EMPHASIS {
+	font-family: "Impact";
+	font-style: normal;
+	background-color: #ff6600;
+	color: white;
+}
+
+.BLOCKQUOTE {
+	font-family: "Times New Roman";
+	font-style: italic;
+}
+
+P {
+	text-indent: 1em;
+	margin-top: .5em;
+	margin-bottom: .5em;
+}
+
+IMG {
+	float: left;
+	margin: 2em;
+}
+
+DIV.SET, DIV.BOOK, DIV.ARTICLE, DIV.CHAPTER, DIV.SECTION  {
+	margin: 0 5% 1em 5%;
+}
+
+DIV.NAVHEADER {
+	background-color: #4b7b9b;
+}
+
+DIV.NAVHEADER TABLE {
+	color: silver;
+}
+
+DIV.NAVHEADER A {
+	color: #e88222;
+}
+
+BODY ADDRESS {
+	line-height: 1.3;
+	margin: .6em 0;
+}
+
+BODY BLOCKQUOTE {
+	margin-top: .75em;
+	line-height: 1.5;
+	margin-bottom: .75em;
+}
+
+HTML BODY {
+	font-family: "Arial Cyr", "Arial", "Helvetica", "Sans-Serif";
+	margin: 0;
+	padding: 0;
+	line-height: 1.2;
+	text-align: justify;
+}
+
+.LEGALNOTICE {
+	font-size: small;
+	font-variant: small-caps;
+}
+
+BODY DIV {
+	margin: 0;
+	padding: 0;
+}
+
+DL {
+	margin: .8em 0;
+	line-height: 1.2;
+}
+
+BODY FORM {
+	margin: .6em 0;
+}
+
+H1, H2, H3
+DIV.EXAMPLE P B,
+.QUESTION,
+DIV.TABLE P B,
+DIV.PROCEDURE P B {
+	color: #990000;
+}
+
+BODY H4 {
+	font-family: "Courier New";
+}
+
+BODY H1, BODY H2, BODY H3, BODY H5, BODY H6 {
+	font-style: italic;
+	line-height: 1.3;
+	margin-left: 0;
+}
+
+BODY H1, BODY H2 {
+	margin: .8em 0 0 -4%;
+}
+
+BODY H3, BODY H4 {
+	margin: .8em 0 0 -3%;
+}
+
+BODY H5 {
+	margin: .8em 0 0 -2%;
+}
+
+BODY H6 {
+	margin: .8em 0 0 -1%;
+}
+
+BODY HR {
+	margin: .6em;
+}
+
+BODY IMG.NAVHEADER {
+	margin: 0 0 0 -4%;
+}
+
+OL {
+	margin: 0 0 0 5%;
+	line-height: 1.2;
+}
+
+BODY PRE {
+	margin: .75em 0;
+	line-height: 1.0;
+	color: #461b7e;
+}
+
+BODY TD, BODY TH {
+	line-height: 1.2;
+}
+
+UL, BODY DIR, BODY MENU {
+	margin: 0 0 0 5%;
+	line-height: 1.2;
+}
+
+HTML {
+	margin: 0; 
+	padding: 0;
+}
+
+.FILENAME {
+	color: #007a00;
+}
+
+.GUIMENU, .GUIMENUITEM, .GUISUBMENU,
+.GUILABEL, .INTERFACE, .GUIBUTTON,
+.SHORTCUT, .SHORTCUT .KEYCAP {
+	background-color: #F0F0F0;
+}
+
+.ACCEL {
+	background-color: #F0F0F0;
+	text-decoration: underline;
+} 
+
+.PROGRAMLISTING, .SCREEN {
+	margin-left: 3ex;
+}
+
+A
+	{ color:#4772BC; text-decoration: none; }
+
+A:HOVER
+	{ color:Red;  text-decoration: underline; }
+

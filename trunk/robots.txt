@@ -1,0 +1,11 @@
+# @(#)robots.txt for searcher
+#
+# $ANDR: www/robots.txt,v 1.4 2006/06/01 19:34:04 andr Exp $
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /cgi/
+Disallow: /include/
+Disallow: /img/
+Disallow: /tie/images/
+Disallow: /pd4/
+Disallow: /jail/

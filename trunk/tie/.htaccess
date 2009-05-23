@@ -1,0 +1,6 @@
+#
+# $Id: .htaccess,v 1.1 2006/01/08 19:29:29 andr Exp $
+#
+
+DirectoryIndex	howto.html
+AddHandler server-parsed .html
