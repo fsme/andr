@@ -1,24 +1,19 @@
 <?xml version="1.0" encoding="koi8-r"?>
-<!--
-<!>
--->
-
 <set lang="ru">
-	<title>Андрей Вингородов. Домашняя страница.</title>
+	<title>Советы бывалого</title>
 <info>
 	<author>
 		<firstname>Андрей</firstname>
 		<surname>Вингородов</surname>
 		<email>mail@andr.ru</email>
-		<email>andwing@gmail.com</email>
 	</author>
 	<copyright>
-		<year>2006</year>
+		<year>2006-2011</year>
 		<holder>Андрей Вингородов	
-			<ulink url="http://andr.ru/">http://andr.ru/</ulink>
+			<ulink url="http://andr.ru/">www.andr.ru</ulink>
 		</holder>
 	</copyright>
-	<releaseinfo>$ANDR: www/index.xml,v 1.11 2006/08/28 20:39:29 andr Exp $</releaseinfo>
+	<releaseinfo>$Id$</releaseinfo>
 </info>
 <abstract>
 	<title>Приветствие</title>
@@ -28,15 +23,15 @@
 		</imageobject>
 	</mediaobject>
 
-	<para>Ещё полтора десятка лет назад почти никто представить себе не мог, какие изменения в образе жизни всего человечества произведёт глобальная коммуникационная сеть.</para>
+	<para>Ещё два десятка лет назад никто представить себе не мог, какие изменения в образе жизни всего человечества произведёт глобальная коммуникационная сеть.</para>
 
-	<para>С тех пор, как изобрели TCP/IP, расстояние между терминалом и вычислителем перестала иметь значение. У меня на столе постоянно, не отключаясь, открыты два-три терминала с удалённых серверов. Самоходными роботами на Марсе управляют через Internet и уже забывают пароли доступа к марсоходам. Когда я покупал СВЧ-печь, меня очень огорчило отсутствие на ней разъёма RJ&#160;45: думал, что уже давно приделали.</para>
+	<para>С тех пор, как изобрели TCP/IP, расстояние между терминалом и вычислителем перестала иметь значение. У меня на столе постоянно, не отключаясь, открыты два-три терминала с удалённых серверов. Самоходными роботами на Марсе управляют через Internet и уже забывают пароли доступа к марсоходам. Когда я покупал микроволновку меня очень огорчило отсутствие на ней разъёма RJ&#160;45: думал, что уже давно приделали. Наверное там WiFi, только, как всегда, не задокументировали :-)</para>
 
-	<para>Изобретение веб-технологии дало сильнейший толчок бурному росту количества пользователей сети из числа не понимающих прелестей командной строки. Люди получили новое качество жизни.</para>
+	<para>HTML дал сильнейший толчок бурному росту количества пользователей сети из числа не понимающих прелестей командной строки. Люди получили новое качество жизни.</para>
 
-	<para>Работа с информацией перешла на качественно иной уровень. С недавних пор я храню на своём десктопе сотни видеофильмов и тысячи звуковых треков высочайшего качества &lt;<ulink url="ftp://ftp.andr.ru/pub/music/">ftp://ftp.andr.ru/pub/music/</ulink>&gt;, и мне совершенно незачем покупать <quote>The Beatles</quote> по 6 раз (как некоторым). Проблема с хранением библиотеки текстов была закрыта десяток лет назад: упакованного архиватором текста на одном гигабайте умещается столько, что не прочитать за целую жизнь &lt;<ulink url="ftp://ftp.andr.ru/pub/txtlib/">ftp://ftp.andr.ru/pub/txtlib/</ulink>&gt;. Гигабайте! Десять лет назад, говоря <quote>сороковник</quote>, я имел в виду диск на 40 мегабайт!</para>
+	<para>Работа с информацией перешла на новый уровень. С недавних пор я храню на своём десктопе сотни видеофильмов и тысячи звуковых треков высочайшего качества <ulink url="ftp://ftp.andr.ru/pub/music/">ftp://ftp.andr.ru/pub/music/</ulink>, и мне совершенно незачем покупать <quote>The Beatles</quote> по нескольку раз на разных носителях (как некоторым). Незачем даже их хранить, в файлообменниках всегда можно скачать в любом формате и качестве. Проблема с хранением библиотеки текстов была закрыта десяток лет назад: упакованного архиватором текста на одном гигабайте умещается столько, что не прочитать за целую жизнь <ulink url="ftp://ftp.andr.ru/pub/txtlib/">ftp://ftp.andr.ru/pub/txtlib/</ulink>. Гигабайте! Десять лет назад, говоря <quote>сороковник</quote>, я имел в виду диск на 40 МЕГАбайт!</para>
 
-	<para>В <link linkend="bookmarks.news">ежедневных электронных бюллетенях и новостных лентах</link> я помечаю для прочтения в несколько раз больше, чем успеваю реально прочитать. Я записываю своё имя на диске, отправляющемся на Плутон и участвую в поиске частиц космической пыли, захваченных аэрогелем около астероида <ulink url="http://stardustathome.ssl.berkeley.edu/">http://stardustathome.ssl.berkeley.edu/</ulink>. Я слушаю запись звуков ветра с Титана (какой вострог!), спутника Сатурна, получив её через несколько часов после передачи на Землю радиосинала, совершенно бесплатно, одновременно с тысячами и тысячами других жаждующих.</para>
+	<para>В ежедневных электронных бюллетенях и новостных лентах я помечаю для прочтения в несколько раз больше, чем успеваю реально прочитать. Я записываю своё имя на диске, отправляющемся на Плутон и участвую в поиске частиц космической пыли, захваченных аэрогелем около астероида <ulink url="http://stardustathome.ssl.berkeley.edu/">http://stardustathome.ssl.berkeley.edu/</ulink>. Я слушаю запись звуков ветра с Титана (какой вострог!), спутника Сатурна, получив её через несколько часов после передачи на Землю радиосинала, совершенно бесплатно, одновременно с тысячами и тысячами других жаждующих.</para>
 
 	<para>Открылись почти бесконечные возможности для бизнеса. Обслуживание сотен тысяч клиентов обходиться в копейки и происходит за секунды. Я давно предполагал, что со временем доступ в интернет станет оплачивать бизнес: никто ведь не берёт с вас деньги за вход в магазин! И это уже происходит <ulink url="http://news.bbc.co.uk/hi/russian/sci/tech/newsid_4989000/4989770.stm">http://news.bbc.co.uk/hi/russian/sci/tech/newsid_4989000/4989770.stm</ulink>.</para>
 
@@ -49,265 +44,83 @@
 
 	<para>Киберпространство &#8722; бесконечный источник насыщения вечно голодного духа познания &#169;.</para>
 	<para>Добро пожаловать в век информации!</para>
-
-	<warning>
-		<title>HD TRACKER</title>
-		<ulink url="http://hdtracker.ru/">HD TRACKER - фильмы DVD, кино, HDTV, Blu-Ray, HD DVD, скачать торрент, torrent</ulink>
-	</warning>
 </abstract>
 
 <book lang="ru">
 <info>
-	<title>Блокнот</title>
+	<title>Компьютеры, интернет</title>
 	<author>
 		<firstname>Андрей</firstname>
 		<surname>Вингородов</surname>
 		<email>mail@andr.ru</email>
-		<email>andwing@gmail.com</email>
 	</author>
 	<copyright>
-		<year>2006</year>
+		<year>2011</year>
 		<holder>Андрей Вингородов	
-			<ulink url="http://www.andr.ru/">http://andr.ru/</ulink>
+			<ulink url="http://www.andr.ru/">www.andr.ru</ulink>
 		</holder>
 	</copyright>
-	<releaseinfo>$ANDR: www/index.xml,v 1.11 2006/08/28 20:39:29 andr Exp $</releaseinfo>
+	<releaseinfo>$Id$</releaseinfo>
 </info>
 <abstract>
-	<title>Вокруг да около</title>
-	<para>Я сам и всё, что мне интересно.</para>
+	<title>Использование компьютера и интернет</title>
+	<para>Большой опыт (десятилетия) использования ПК сделали из меня настоящего гуру в этой области. Постоянно использую минимум три операционные системы на своих четырех ноутбуках, - и всё больше для развлечения, чем для работы.</para>
+	<para>Эта книга о том, как выбрать, поставить, настроить и безопасно использовать ноутбук, FreeBSD, Inferno, Windows, QNX и пр.</para>
+	<para>Как скачать из сети фильм, музыку или софт</para>
+	<para>Как защитить компьютер и себя от вирусов и бактерий</para>
+	<para>Как хранить свои файлы в сети</para>
+	<para>Какой почтой лучше пользоваться, а какой ни в коем случае не надо</para>
 </abstract>
-<chapter id="bookmarks">
-	<title>Закладки</title>
+<chapter id="msdos">
+	<title>Windows</title>
 	<abstract>
-		<para>Интересные сайты. Бывает очень трудно найти то, что нужно и интересно. Надеюсь, сэкономил вам время.</para>
+		<para>Нелюблю маздай за тупорылость и безграничную бездарность инженеров её строящих. К сожалению призводители новых устройств (напр. WiMAX) очень неохотно раскрывают спецификации железа, а самостоятельно выпускают драйвера только на маздай(R) и линух(C)(R)(tm)</para>
+		<para>Поэтому всякий раз при обновлении техники (сейчас это Acer Aspire ONE  со встроенной Yota) у меня бывает период в пару лет, когда я использую венду достаточно плотно, чтобы укатать её под свои требования. При некотором терпении можно её настроить так, чтобы она почти хорошо работала, только с каждым новым релизом это становиться всё труднее.</para>
+		<para>Предустановленная на нетбук Windows 7 благополучно сдохла (перестал читаться зашифрованный системный диск) до того, как я её успел укатать. Поэтому все мои советы пока к Windows XP. Vista вообще не буде мной никогда использована - слава Вирту я не успел, она пролетела как комета, таща за собой хвост из насмешек и издевательств профессионалов.</para>
+		<para>Советы по использованию более ранних версий венды (3.11, 95, NT, 2000) уже не акуальны. Единственный от меня к ним совет - не используйте!</para>
 	</abstract>
 
-	<section id="bookmarks.andr">
-		<title>Мои ресурсы</title>
+	<section id="msdos.install">
+		<title>Выбор дистрибутива и установка</title>
 
-		<section id="bookmarks.andr.ftp">
-		<title>Домашний FTP</title>
-
-			<ulink url="ftp://ftp.andr.ru/">ftp://ftp.andr.ru/</ulink>
-
-			<para>Интернет-сервером дома работает старенький писюк. На его диск 3&#160;Gb много не влезет. Каталоги <code>music</code>, <code>lib</code>, <code>video</code> прикручены к настольному компьютеру через NFS. Если они пусты, значит десктоп не работает.</para>
-			<warning>
-				<title>Внимание!</title>
-				Не пытайтесь выкачать ISO-образы! Это DVD, они весят от 4.3&#160;Gb и более. Даже если у вас получиться, вы заплатите вашему провайдеру за скаченный трафик несколько десятков долларов! 
-			</warning>
+		<section id="msdos.install.dist">
+		<title>Выбор дистрибутива</title>
+			<para>бла бла бла</para>
 		</section>
 
-		<section id="bookmarks.andr.cvs">
-		<title>Репозиторий CVS</title>
-				<ulink url="http://andr.ru/cgi-bin/cvsweb.cgi/">http://andr.ru/cgi-bin/cvsweb.cgi/</ulink>
-			<para>Домашний репозиторий: мои сайты, эта книга, некоммерческое ПО, файлы конфигураций, etc. Доступ организован с помощью скрипта, позаимствованного у проекта FreeBSD.</para>
-			<para><ulink url="http://www.freebsd.org/cgi/cvsweb.cgi/ports/devel/cvsweb3/">http://www.freebsd.org/cgi/cvsweb.cgi/ports/devel/cvsweb3/</ulink></para>
+		<section id="msdos.install.disc">
+		<title>Разметка диска</title>
 		</section>
 
-		<section id="bookmarks.andr.doc">
-		<title>Документация</title>
-				<ulink url="/doc/">http://andr.ru/doc/</ulink>
-			<para>Документация на ПО (doxygen)</para>
+	</section><!--msdos.install-->
+
+	<section id="msdos.overhead">
+	<title>Крутой тюнинг</title>
+
+		<section id="msdos.overhead.visible">
+		<title>Ускоряем окна</title>
+			<para>бла бла бла</para>
 		</section>
 
-		<section id="bookmarks.andr.bak">
-		<title>Старая версия ANDR.RU</title>
-				<ulink url="http://andr.ru/bookmarks.html">http://andr.ru/bookmarks.html</ulink>
-			<para>До того, как я начал изучать DocBook <ulink url="http://docbook.ru/">http://docbook.ru/</ulink>. Новый сайт - это процесс и результат изучения DocBook. Имена фалов не пересекаются и я оставлю старый сайт как есть.</para>
+		<section id="msdos.overhead.services">
+		<title>Выключаем ненужные сервисы</title>
+			<para>бла бла бла</para>
 		</section>
 
-		<section id="bookmarks.andr.projects">
-		<title>Мои проекты</title>
-
-			<section id="bookmarks.andr.projects.beastie">
-			<title><ulink url="http://beastie.ru/">Beastie.Ru</ulink></title>
-				<para>Бести - это имя демона-талисмана FreeBSD. Его нарисовал Маршалл Кирк Мак'Кузик. <ulink url="http://www.mckusick.com/beastie/">http://www.mckusick.com/beastie/</ulink> На этом сайте я собираю ссылки на ресурсы, посвящённые BSD-системам. Задуман <code>usenet-сервер</code> <ulink url="news://news.beastie.ru/">news://news.beastie.ru/</ulink> с группами по теме и веб-интерфейсом.</para>
-			</section>
-
-			<section id="bookmarks.andr.projects.callto">
-			<title><ulink url="http://callto.ru/">CaLLTo.ru</ulink></title>
-				<para>Телефонный справочник. Возможно, что это станет названием протокола для связи, вроде <code>H.323</code>, для обычного браузера. Будете мне звонить <ulink url="callto://user@andr.ru">callto://user@andr.ru</ulink>. В окошке браузера будет торчать моя голова и разговаривать. :-)</para>
-			</section>
-
-			<section id="bookmarks.andr.projects.daytime">
-			<title><ulink url="http://daytime.ru/">DayTime.Ru</ulink></title>
-				<para>Сайт был специально зарегистрирован, чтобы разместить мои веб-часы. Мой собственный дизайн, конечно, не новое слово, но всё-таки. Давно хотел иметь такие на стену, с большими цифрами (у меня слабое зрение), и вот нарисовал. Вряд ли можно написать этот HTML короче и выразительнее, но надо бы ещё подогнать код под современные стандарты от W3C. Часы пока что показывают локальное время на вашем компьютере.</para>
-				<para>Есть идея сделать веб-органайзер. Чтобы можно было зарегистрироваться, вести личный календарь и получать напоминания о делах. Пока меня хватило только на часы. Работает daytime-сервис на порту 13 <ulink url="http://ietf.org/rfc/rfc0867.txt">(RFC&#160;867)</ulink></para>
-
-<screen>
-# telnet daytime.ru 13
-Trying 80.249.152.118...
-Connected to daytime.ru.
-Escape character is '^]'.
-Sat Jun 10 23:09:53 2006
-
-# _
-</screen>
-			<warning>
-					<title>Часы на сервере не всегда синхронизированы!</title>
-				<para>Это мой домашний сервер, не все сервисы бывают настроены и запущены! Очень точно время (UTC) можно спросить, например, у федеральных атомных часов по адресу <code>india.colorado.edu (порт 13)</code></para>
-			</warning>
-			</section>
-
-			<section id="bookmarks.andr.projects.gatebsd">
-			<title><ulink url="http://gatebsd.org/">GateBSD.org</ulink></title>
-				<para>Компактная специализированая версия BSD для шлюза. Работающая версия построена на базе FreeBSD 4.8, но использовать её советую только для локальной сети или домашнего интернет-шлюза. Эта была построена для защиты веб-сервера компании Bank's Soft Systems от корпоративной сети самой компании.</para>
-				<para>Для серъёзной защиты UNIX-like системы не предназначены. Они многопользовательские, в них очень много потенциально небезопасного кода. Но с другой стороны, если речь не идёт о больших деньгах, покупать циску тоже смысла не имеет.</para>
-				<para>Новая версия на 5.x пока не закончена. Нет потребности, я занят другими проектами, не связаными с администрированием. А если потребность возникнет, уже пора строить на 6.x</para>
-			</section>
-
-<!--
-			<section id="bookmarks.andr.projects.m0bile">
-			<title><ulink url="http://m0bile.ru/">m0bile.ru</ulink></title>
-				<para>М0бильный веб-чат. <warning>Ноль вместо буквы <quote>o</quote>!</warning> Чтобы разместить сообщение, требуется послать его по SMS на номер +7&#160;(910)&#160;454&#160;34&#160;04. Сервис без добавленной стоимости, вы оплатите только SMS своему сотовому оператору.</para>
-				<para>Возможно получение приходящих сообщений на мобильный.</para>
-				<para>Этот сайт &#8722; демонстрация моих возможностей в мобильных технологиях. Всё железо куплено, собрано и установлено мной, всё программное обеспечение, веб-интерфейс, дизайн сделано мной самим.</para>
-			</section>
--->
-
-			<section id="bookmarks.andr.projects.metacomputer">
-			<title><ulink url="http://metacomputer.net/">METAComputer.NET</ulink>&#160;</title>
-					
-				<ulink url="http://metacomputer.ru/">METAComputer.RU</ulink>
-				<para>Метакомпьютер - эта распределённая вычислительная машина, организующая через сеть вычислительные ресурсы множества независимых разнородных компьютеров и предоставляющая пользователям доступ к ним как к одному компьютеру.</para>
-				<para>Пользователь получает результат параллельной работы множества процессоров считая их одним единственным ЦПУ. Пользователь хранит свои файлы на десятках дисков по сети, считая их одним диском у себя на ПК. И если где-то из этой системы выпадает узел, пользователь об этом ничего не узнает. Он только сможет заметить, что его процессор считает немного медленнее, чем обычно, а запрос к файлу ненадолго притормозил. Метакомпьютер позаботится о репликации и восстановлении утраченных процессов или данных, привлечении простаивающих мощностей.</para>
-				<para>Это пока только мечты. Но выглялит сооблазнительно, не так ли? В сети вы найдёте множество проектов и работ в данном направлении. Рекомендую, например, <acronym>DOS</acronym> <quote>Амёба</quote> Таненбаума <ulink url="http://www.cs.vu.nl/pub/amoeba/">http://www.cs.vu.nl/pub/amoeba/</ulink> и супермодерновую (во всяком случае по техническим решениям) ОС от создателей UNIX Plan9 <ulink url="http://cm.bell-labs.com/plan9/">http://cm.bell-labs.com/plan9/</ulink>. Когда эти парни поют, можно только, разинув рот, слушать. Андрей Кухар перевёл много статей, огромное ему спасибо <ulink url="http://www.metacomputer.ru/plan9/">http://metacomputer.ru/plan9/</ulink></para>
-			</section>
-
-			<section id="bookmarks.andr.projects.servguard">
-			<title><ulink url="http://servguard.com/">ServGuard.COM</ulink></title>
-				<ulink url="http://servguard.net/">ServGuard.NET</ulink>
-			&#160;<ulink url="http://servguard.org/">ServGuard.ORG</ulink>
-			&#160;<ulink url="http://servguard.ru/">ServGuard.RU</ulink>
-				<para>Мониторинг работы сетевых сервисов. Вы получите SMS сообщение на свой мобильный телефон, если указанный вами хост/порт перестал принимать запросы. Бесплатно вы можете получить сообщение по e-mail или воспользоваться веб-интерфейсом.</para>
-				<para>Сервис пока не работает (я занят другими проектами), но обязательно будет. Чтобы обеспечить бесперебойную работу самого сервиса, он должен быть распределённым. Требуется доработать софт, закупить и установить на нескольких площадках дорогостоящее оборудование, решить организационные вопросы (т.к. сервис будет платный).</para>
-			</section>
-
-			<section id="bookmarks.andr.projects.translt">
-			<title><ulink url="http://translt.com/">Translt.COM</ulink></title>
-
-			&#160;<ulink url="http://translt.net/">Translt.NET</ulink>
-			&#160;<ulink url="http://translt.org/">Translt.ORG</ulink>
-			&#160;<ulink url="http://www.translt.ru/">Translt.RU</ulink>
-				<para>Электронный словарь и автоматический перевод. Слово <code>translate</code> сокращено на <code>a</code> и на <code>e</code>, которые вместе составляют знак <code>aelig</code> и он будет использован в качестве торгового знака сервиса.</para>
-				 <literal>&#160;&#230;&#160;</literal>
-				<para>Много идей, но пока до практики дело не дошло. Ещё сыро.</para>
-			</section>
-
-			<section id="bookmarks.andr.projects.vasia">
-			<title><ulink url="http://vasia.ru/">VASIA.Ru</ulink></title>
-				<para>Этот домен я застолбил для брата Василия. Не продаётся!</para>
-			</section>
+		<section id="msdos.overhead.autorun">
+		<title>Убираем автозапуск</title>
+			<para>бла бла бла</para>
 		</section>
 
-		<section id="bookmarks.andr.stat">
-		<title>Статистика посещений</title>
-			<ulink url="http://andr.ru/stat/index.html">http://andr.ru/stat/index.html</ulink>
-			<para>Вебалайзер запускается раз в сутки в 23:59 MSK. У меня попеременно работают два веб-сервера, поэтому можно наблюдать разные цифры.</para>
+		<section id="msdos.overhead.swap">
+		<title>Отключаем файл подкачки</title>
+			<para>бла бла бла</para>
 		</section>
 
-	</section><!--bookmarks.andr-->
-
-
-	<section id="bookmarks.news">
-	<title>Новости, анонсы, препринты</title>
-
-		<section id="bookmarks.news.scientific">
-		<title>Новости науки</title>
-			<para>
-				<ulink url="http://scientific.ru/">http://scientific.ru/</ulink>
-				<ulink url="http://hiero.ru/rss2lj/html2rss/feed.php?feed=scientific_ru_news"><emphasis>&#160;XML&#160;</emphasis></ulink>
-			</para>
+		<section id="msdos.overhead.restore">
+		<title>Отключаем восстановление</title>
+			<para>бла бла бла</para>
 		</section>
-
-		<section id="bookmarks.news.">
-		<title>Элементы</title>
-			<para>
-				<ulink url="http://elementy.ru/">http://elementy.ru/</ulink>
-				<ulink url="http://elementy.ru/rss/"><emphasis>&#160;XML&#160;</emphasis></ulink>
-			</para>
-		</section>
-
-		<section id="bookmarks.news.perst">
-		<title>Научный бюллютень <quote>ПерсТ&#8482;</quote></title>
-			<para>
-				<ulink url="http://perst.isssph.kiae.ru/Inform/perst.htm">http://perst.isssph.kiae.ru/Inform/perst.htm</ulink>
-			</para>
-		</section>
-
-		<section id="bookmarks.news.science">
-			<title>Журнал <quote>Science</quote></title>
-			<para>
-			<ulink url="http://sciencemag.org/">http://sciencemag.org/</ulink>
-			<ulink url="http://sciencemag.org/rss/"><emphasis>&#160;XML&#160;</emphasis></ulink>
-			</para>
-		</section>
-
-<!--
-<emphasis>&#160;XML&#160;</emphasis>
--->
-		<section id="bookmarks.news.nature">
-		<title>Журнал <quote>Nature</quote></title>
-			<para>
-				<ulink url="http://www.nature.com/">http://www.nature.com/</ulink>
-				<ulink url="http://npg.nature.com/news/rss.rdf"><emphasis>&#160;XML&#160;</emphasis></ulink>
-			</para>
-		</section>
-
-		<section id="bookmarks.news.vokrugsveta">
-		<title>Журнал <quote>Вокруг Света</quote></title>
-			<para>
-				<ulink url="http://vokrugsveta.ru/">http://vokrugsveta.ru/</ulink>
-			</para>
-		</section>
-
-		<section id="bookmarks.news.nkj">
-		<title>Журнал <quote>Наука и Жизнь</quote></title>
-			<para>
-				<ulink url="http://www.nkj.ru/">http://www.nkj.ru/</ulink>
-				<ulink url="http://nauka.relis.ru/">&#160;/старая версия/&#160;
-				</ulink>
-			</para>
-		</section>
-
-		<section id="bookmarks.news.ipc">
-		<title>Промышленная автоматизация</title>
-			<para>
-				<ulink url="http://www.icnews.ru/">http://www.icnews.ru/</ulink>
-			</para>
-		</section>
-
-
-		<section id="bookmarks.news.">
-		<title></title>
-			<para>
-				<ulink url=""></ulink>
-				<ulink url=""><emphasis>&#160;XML&#160;</emphasis></ulink>
-			</para>
-		</section>
-
-		<section id="bookmarks.news.">
-		<title></title>
-			<para>
-				<ulink url=""></ulink>
-				<ulink url=""><emphasis>&#160;XML&#160;</emphasis></ulink>
-			</para>
-		</section>
-
-	</section>
-
-	<section id="bookmarks.">
-		<title></title>
-
-		<section id="bookmarks.">
-		<title></title>
-			<para>
-			<ulink url=""></ulink>
-				<ulink url=""><emphasis>&#160;XML&#160;</emphasis></ulink>
-			</para>
-		</section>
-
 	</section>
 
 	<section id="articles">
@@ -325,120 +138,4 @@ Sat Jun 10 23:09:53 2006
 
 </chapter>
 </book>
-
-<book lang="ru">
-<info>
-	<title>Ценные Советы</title>
-	<author>
-		<firstname>Андрей</firstname>
-		<surname>Вингородов</surname>
-		<email>mail@andr.ru</email>
-		<email>andwing@gmail.com</email>
-	</author>
-	<copyright>
-		<year>2006</year>
-		<holder>Андрей Вингородов	
-			<ulink url="http://www.andr.ru/">http://andr.ru/</ulink>
-		</holder>
-	</copyright>
-	<releaseinfo>$ANDR: www/index.xml,v 1.11 2006/08/28 20:39:29 andr Exp $</releaseinfo>
-</info>
-<abstract>
-	<para>Рецепты на скорую руку</para>
-</abstract>
-<chapter id="tcsh">
-	<title>Клавиши управления в tcsh</title>
-	<abstract>
-		<para>За несоклько минут протыканы все клавиши на клаве в комбинации с CTRL и ALT. Замеченные эффекты записаны для дальнейшего использования.</para>
-	</abstract>
-
-	<section id="tcsh.ctrl">
-		<title>Управление процессами в tcsh</title>
-
-		<section id="tcsh.ctrl.l">
-			<title>CTRL-L</title>
-			<para>Очистить экран</para>
-		</section>
-		<section id="tcsh.ctrl.j">
-			<title>CTRL-J</title>
-			<para>Перевод строки-возврат каретки (enter, оно же CTRL-M)</para>
-		</section>
-		<section id="tcsh.ctrl.p">
-			<title>CTRL-P</title>
-			<para>Предыдущая команда из .history</para>
-		</section>
-		<section id="tcsh.ctrl.n">
-			<title>CTRL-N</title>
-			<para>Следующая команда из .history</para>
-		</section>
-		<section id="tcsh.ctrl.z">
-			<title>CTRL-Z</title>
-			<para>приостановить выполнение процесса (suspend).</para>
-			<itemizedlist>
-				<title>после чего можно:</title>
-         		<listitem>fg - продолжить процесс</listitem>
- 	        	<listitem>bg - продолжить процесс в режиме демона</listitem>
-			</itemizedlist>
-		</section>
-		<section id="tcsh.ctrl.c">
-			<title>CTRL-C</title>
-			<para>прервать выполнение процесса (сигнал -KILL)</para>
-		</section>
-		<section id="tcsh.ctrl.backslash">
-			<title>CTRL-\</title>
-			<para>прервать выполнение процесса (сигнал -QUIT)</para>
-		</section>
-	</section>
-
-	<section id="readline">
-			<title>Редактирование командной строки tcsh</title>
-		<section id="tcsh.readline.ctrl.a">
-			<title>CTRL-A</title>
-			<para>курсор в начало строки</para>
-		</section>
-		<section id="tcsh.readline.ctrl.e">
-			<title>CTRL-E</title>
-			<para>прыгнуть в конец строки</para>
-		</section>
-		<section id="tcsh.readline.ctrl.h">
-			<title>CTRL-H</title>
-			<para>забой (бэкспэйс)</para>
-		</section>
-		<section id="tcsh.readline.ctrl.d">
-			<title>CTRL-D</title>
-			<para>удаляет символ и подтягивает всю строку</para>
-		</section>
-		<section id="tcsh.readline.ctrl.b">
-			<title>CTRL-B</title>
-			<para>курсор влево (назад)</para>
-		</section>
-		<section id="tcsh.readline.ctrl.f">
-			<title>CTRL-F</title>
-			<para>курсор вправо (вперёд)</para>
-		</section>
-		<section id="tcsh.readline.ctrl.k">
-			<title>CTRL-K</title>
-			<para>удалить от курсора до конца строки</para>
-		</section>
-		<section id="tcsh.readline.ctrl.u">
-			<title>CTRL-U</title>
-			<para>удалить всю строку </para>
-		</section>
-		<section id="tcsh.readline.ctrl.w">
-			<title>CTRL-W</title>
-			<para>удалить слово перед курсором</para>
-		</section>
-		<section id="tcsh.readline.ctrl.y">
-			<title>CTRL-Y</title>
-			<para>вставить только что удалённое с позиции курсора</para>
-		</section>
-		<section id="tcsh.readline.ctrl.t">
-			<title>CTRL-T</title>
-			<para>сдвигает курсор вперёд и тащит за курсором символ слева</para>
-		</section>
-	</section>
-</chapter>
-</book>
-
-
 </set>

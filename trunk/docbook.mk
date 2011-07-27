@@ -4,11 +4,12 @@
 .SUFFIXES: .xml .html
 .PHONY: all clean clear
 
-XSLTDIR     = /usr/local/share/apps/ksgmltools2/docbook/xsl/html
-WWWDIR      = /home/ru/andr/www
+#XSLTDIR     = /usr/local/share/apps/ksgmltools2/docbook/xsl/html
+XSLTDIR     = /usr/local/share/xsl/docbook/html
+WWWDIR      = /home/ass/www/trunk
 PARAM       =  --nonet\
                --stringparam html.stylesheet ${CSS}\
-               --stringparam chunker.output.encoding koi8-r
+               --stringparam chunker.output.encoding utf-8
 
 INDEX       =  index
 INSTALL     =  install -m 644
